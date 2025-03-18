@@ -1,6 +1,6 @@
 /*
     Implementation of the SymbolTable class
-    by: Owen, Roy, Kathy, Kyle
+    by: Kathy
 
     Decription: This file contains the implementations of the
     SymbolTable class functions declared in the header file.
