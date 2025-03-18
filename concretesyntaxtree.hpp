@@ -1,6 +1,6 @@
 /*
     Assignment 3: Recursive Decent Parser
-    by: Owen, Roy, Kathy, Kyle
+    by: Kathy
 
     ConcreteSyntaxTree header file
     Description: The ConcreteSyntaxTree class contains functions
