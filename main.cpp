@@ -1,6 +1,6 @@
 /*
     Main file
-    by: Owen, Roy, Kathy, Kyle
+    by: Kathy
 
     Description: This file contains the main function for
     the program and is used to read in user's input files
