@@ -1,6 +1,6 @@
 /*
     Implementation of the Tokenization class
-    by: Owen, Roy, Kathy, Kyle
+    by: Kathy
 
     Description: This file contains the implementation of
     the Tokenization class functions declared in the header
