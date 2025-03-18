@@ -1,6 +1,6 @@
 /*
     Assignment 1: Ignore Comments
-    by: Owen, Roy, Kathy, Kyle
+    by: Kathy
     
     RemoveComments header file
     Description: The RemoveComments class contains a function that will 
