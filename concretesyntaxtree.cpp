@@ -1,6 +1,6 @@
 /*
     Implementation of the ConcreteSyntaxTree class
-    by: Owen, Roy, Kathy, Kyle
+    by: Kathy
 
     Description: This file contains the implementations of
     the ConcreteSyntaxTree class functions declared in the
