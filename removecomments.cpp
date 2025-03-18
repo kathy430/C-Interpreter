@@ -1,6 +1,6 @@
 /*
     Implementation of the RemoveComments class
-    by: Owen, Roy, Kathy, Kyle
+    by: Kathy
 
     Description: This file contains the implementation of the
     RemoveComments class function declared in the header file.
