@@ -1,6 +1,6 @@
 /*
     Assignment 4: Recursive Decent Parser
-    by: Owen, Roy, Kathy, Kyle
+    by: Kathy
 
     SymbolTable header file
     Description: The SymbolTable class contains a struct 
