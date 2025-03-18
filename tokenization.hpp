@@ -1,6 +1,6 @@
 /*
     Assignment 2: Tokenization
-    by: Owen, Roy, Kathy, Kyle
+    by: Kathy
 
     Tokenization header file
     Description: The Tokenization class contains functions to
